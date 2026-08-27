@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://www.linkedin.com/in/kiran-sarwar-515a7b379)
 <h1 align="center">Hi 👋, I'm Kiran Sarwar</h1>
-<h3 align="center">Software Engineering student | Prompt Engineering Intern @ Decode Labs & Python Intern @ CodeAlpha</h3>
+<h3 align="center">Software Engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3UxShhd-xUDcjK6Uwk9Q6DWeuAncgkkodm6O9sk7arLlvkAyRcfhTxiJm&s=10">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kiran-Sarwar&label=Profile%20views&color=0e75b6&style=flat" alt="Kiran-Sarwar" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kiran-Sarwar" alt="Kiran-Sarwar" /></a> </p>
